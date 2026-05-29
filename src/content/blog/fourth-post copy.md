@@ -1,16 +1,33 @@
 ---
-title: 'Fourth post'
+title: '人の気持ちが聞こえたら'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Jul 22 2022'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/人の気持ち.png'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+『人の気持ちが聴こえたら』を読んで、まず一番衝撃だったのは、これがフィクションではなくノンフィクションだということだった。
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+この本では、「経頭蓋磁気治療（けいとうがいじきちりょう）」という、脳の一部の働きを抑え、別の領域を活性化させる治療が扱われる。著者は自閉スペクトラム症の当事者で、その治療をきっかけに、それまで分からなかった「他人の感情」が急に流れ込んでくるようになる。
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+設定だけ聞くとSFみたいなのに、実際に存在する治療をベースにしているのが怖い。人の認知や感情は、生まれつき固定されたものではなく、脳のバランス次第で変わってしまうのかもしれない、という感覚が残る。
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+特に印象に残ったのは、「人の気持ちが分かること」が、必ずしも幸せにつながらないという部分だった。
+治療前の著者は、鬱状態の妻に対しても、ある意味で“気にしすぎない”距離感を持てていた。もちろん冷たいという意味ではなく、感情の波に飲み込まれすぎない状態だったのだと思う。けれど、人の感情を敏感に読み取れるようになったことで、そのバランスが崩れていく。
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+それまで見えなかった不安や苛立ち、相手の本音まで拾ってしまう。親友だと思っていた相手の中にあった悪意にも気づいてしまう。知らなければ成立していた関係が、理解できるようになったことで壊れていく。
+
+読んでいて思い出したのは、ダニエル・キイスの『アルジャーノンに花束を』だった。知能が上がったことで、今まで見えなかった世界が見えてしまい、逆に苦しみが増えていく話だ。
+この本の著者にも、それに近い変化を感じた。ただ、それは単純に「感受性が高くなった」というより、「世界から受け取る情報量そのものが増えた」感覚に近いのかもしれない。
+
+そこでふと思ったのが、「高いことで得られるもの」と「低いことで守られるもの」が、それぞれ存在しているのではないか、ということだった。
+
+知能が高ければ、構造や矛盾、他人の意図に気づきやすくなる。その分、単純に世界を信じることは難しくなる。逆に、細かい構造を見抜きすぎないことで、素直に没入できたり、傷つかずに済むこともある。
+
+感受性も同じで、人の痛みや空気を深く感じ取れることは、豊かさでもある一方で、他人の感情に引きずられやすくもなる。逆に、ある程度鈍感だからこそ、心が安定する場面もある。
+
+つまり、人間の認知機能には、「性能が高ければ高いほど良い」という単純な話ではない部分があるように感じた。
+
+視力で言えば、解像度が高すぎることで、普通なら見えない傷やノイズまで見えてしまうようなものかもしれない。見える情報が増えるほど、世界は豊かになる。でも同時に、見なくてもよかったものまで入ってきてしまう。
+
+だから脳は、単純な優劣ではなく、「何を見て、何を見ないか」のバランスの上に成り立っているのだと思う。
+この本を読んでいると、人間らしさというのは、能力の高さそのものではなく、「どこまで世界を受け取ってしまうか」という感度の設計に近いのかもしれない、と感じた。

@@ -1,16 +1,98 @@
 ---
-title: 'Third post'
+title: '民主と愛国'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Jul 22 2022'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/愛国.png'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+『民主と愛国』を読んで、自分の中にあった「日本」という感覚がかなり揺さぶられた。
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+それまでは、戦前は軍国主義で、国民は熱狂して戦争に向かい、戦後はアメリカ化によって民主主義国家へ変わった――そのくらいの、教科書的な理解で止まっていたと思う。
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+けれど小熊英二の『民主と愛国』は、その単純な構図をかなり根本から崩してくる本だった。
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+読んでいてまず感じたのは、「国家」や「愛国心」というものが、自分が思っていた以上に曖昧で、人工的で、時代によって作り替えられていくものだったということだ。
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+戦争中、人々は本当に心から国家のために命を捧げていたのか。もちろんそういう人もいただろう。けれど本書を読むと、それだけでは説明できない空気が見えてくる。
+
+むしろ多くの人は、「そうするしかなかった」のではないか。社会全体がその方向へ流れている中で、逆らうことは生活や人間関係、自分の立場そのものを失うことに近かった。特攻ですら、強固な愛国心だけではなく、「他に選択肢が存在しなかった」という側面があったのではないかと思えてくる。
+
+そこで見えてきたのは、日本社会に長く存在してきた「空気への適応」という感覚だった。
+
+本書の中で描かれる三島由紀夫も、単純な軍国主義者としては描かれていない。むしろ彼は、「愛国」という言葉にすら違和感を抱えていたように見える。
+
+三島が愛していたのは、政治体制としての日本というより、日本の美意識や精神性、文化や死生観のような、もっと感覚的で輪郭の曖昧な「日本」だったのだと思う。
+
+ただ同時に、彼自身もまた、戦前・戦中の情報統制や教育の中で形成された世界観から完全には自由ではなかった。彼が見ていた「日本」もまた、国家によって編集されたイメージを含んでいた可能性がある。
+
+だからこそ三島の絶望は、単なる右翼思想ではなく、「自分が信じていた日本」が戦後社会の中で崩れていく感覚そのものにあったのではないかと思った。
+
+---
+
+ここで面白いのは、「国家」というものが永遠不変の実体ではなく、かなり流動的な概念だということだ。
+
+戦前は「お国のため」が正義だった。戦後は「経済成長のため」が正義になった。そして現代では、「社会に適応し、消費し、機能すること」が求められている。
+
+求められる形は変わっているのに、「空気に適応することが善とされる構造」自体は、実はあまり変わっていないようにも見える。
+
+本書で特に衝撃だったのは、「国民」という概念そのものが、比較的新しい人工物だったという点だった。
+
+明治以前、庶民にとっての世界は藩単位で閉じていて、「日本」という国家を強く意識する感覚はほとんどなかった。今の感覚でいう「日本人」というアイデンティティは、最初から自然に存在していたわけではない。
+
+明治政府は近代国家を作るために、「国民」を作る必要があった。そのために教育制度が整えられ、徴兵制が導入され、天皇を中心とした統合の物語が作られていった。
+
+つまり「国民意識」とは、自然発生したものというより、国家運営のために設計された側面がかなり強かったのだと思う。
+
+そして興味深いのは、その構造自体は戦後も消えていないことだ。
+
+戦前は「戦争のための国民」が求められ、戦後は「経済成長のための労働者」が求められ、現代では「社会を維持する消費者」が求められている。
+
+もちろん今は戦前より自由だし、民主主義もある。けれど、本当に根本から自由になったのかと言われると、少し迷う。
+
+SNSを見ていても、「正しい空気」に適応できない人間は簡単に排除される。炎上や同調圧力を見ていると、戦前のプロパガンダと現代の世論形成は、手法が変わっただけで、人間の構造そのものはそこまで変わっていないのではないかとも感じる。
+
+---
+
+この本を読んで特に印象に残ったのは、知識人たちですら、その時代の空気から完全には自由ではなかったという点だった。
+
+戦前、多くの大学教授や知識人は、国家権力に違和感を持ちながらも、露骨に反対すれば職を失い、社会から排除される危険を抱えていた。
+
+完全に迎合したわけではない。けれど、真実を最後まで言い切ることもできなかった。
+
+そこには、「おかしいとは思っている。でも、自分一人が逆らっても何も変わらない」という感覚があったように見える。
+
+そしてそれは、現代でもかなり似た構造がある気がする。
+
+組織の中で違和感を持ちながらも沈黙する人。空気に逆らうことで立場を失うことを恐れる人。本音と建前を分離しながら生きる人。
+
+」の話ではないのだと思う。
+
+むしろ、誰もが時代の空気に巻き込まれ、その中で少しずつ妥協しながら生きてしまうという、人間そのものの構造に近い。
+
+だからこそ、この本は少し怖い。
+
+自分は自由に考えているつもりでも、その「自由な考え方」自体が、時代や教育や社会構造によってかなり形作られている可能性があるからだ。
+
+教育とは単に知識を教えるものではなく、「社会の中でどう振る舞うべきか」を身体感覚レベルで内面化させる装置でもある。だから人は、自分では自然だと思っている価値観を、かなり無意識に時代から受け取っている。
+
+そして、それを完全に脱することは、多分かなり難しい。
+
+けれど同時に、歴史を動かしてきたのは、「この空気は本当に自然なのか？」と違和感を持ち続けた人たちでもあった。
+
+もし現代に閉塞感があるとすれば、それは「空気に適応する能力」が高まりすぎた一方で、その外側を想像する力が弱くなっているからなのかもしれない。
+
+---
+
+『民主と愛国』は、単なる歴史書ではなく、「日本人とは何か」を考えさせられる本だった。
+
+国家とは何か。国民とは何か。愛国心とは何か。そして、自分の考えはどこまで本当に自分のものなのか。
+
+読み終わったあと、自分の中には答えよりも問いの方が残った。
+
+でも多分、この本の価値はそこにあるのだと思う。
+
+「本当にこのままでいいのか？」
+
+その問いを、一度立ち止まって持たせること。
+
+『民主と愛国』は、そういう本だった。

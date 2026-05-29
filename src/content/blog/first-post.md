@@ -1,16 +1,76 @@
 ---
-title: 'First post'
+title: 'トランプデック理論'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Jul 08 2022'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/トランプ.png'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+束になったトランプデックを想像してほしい
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+｢私｣をトランプのスペードのエース♠️1としたら
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+他に束には５１枚のカードがある
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+最初はきっと♠️2だけが見えるよね
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+1回シャッフルするやん
+
+そしたら隣になるカードは♥️3とかかもしれん
+
+そしたら、♠️1の｢私｣からは♠️2のあとに♥️3が現れた
+
+って｢順番｣が生まれるやんね
+
+でも、それって♠️1目線で見た流れなだけでさ
+
+トランプデックを見れば
+
+ただ、ぐちゃぐちゃになり続けてるだけよね
+
+気付いた？
+
+♠️1からは、順番を感じられる
+
+けど、デック自体に順番があるわけじゃないやんね
+
+｢私｣は過去とか未来があると思うやん
+
+過去は確かに存在して、
+
+未来はまだ存在しないと思うやん
+
+もしかしたら、それは｢私｣やけ感じるだけで
+
+時間なんかないんかもしれん
+
+あるのはぐちゃぐちゃのカードで
+
+｢私｣たちは隣あったカードしか見えんけ
+
+それが｢過去｣で
+
+隣あってないカードは｢未来｣で
+
+時間って概念は、♠️1目線であるからこその現象かもよ
+
+天動説、知ってる？
+
+1000年以上、人類は空が動いていると思ってたらしい
+
+そういう風にしか観測出来んやったけ
+
+でも動いているのは地球やったよね
+
+そこから約1000年
+
+ 人類は時間が流れていると信じてる
+ 
+過去しか観測できないから
+
+でも、 
+
+そろそろ気づく頃かもしれん
+
+｢時間｣が流れているんじゃなくて
+
+｢私｣たちが、 世界の中を流れていることに。
