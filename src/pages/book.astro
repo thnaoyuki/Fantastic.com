@@ -45,9 +45,6 @@ const posts = (await getCollection('blog'))
 			ul li:first-child img {
 				width: 100%;
 			}
-			ul li:first-child .title {
-				font-size: 2.369rem;
-			}
 			ul li img {
 				margin-bottom: 0.5rem;
 				border-radius: 12px;
@@ -100,7 +97,7 @@ const posts = (await getCollection('blog'))
 									{post.data.heroImage && (
 										<Image width={720} height={360} src={post.data.heroImage} alt="" />
 									)}
-									<h6 class="title">{post.data.title}</h6>
+									<h5 class="title">{post.data.title}</h5>
 									<p class="date">
 										<FormattedDate date={post.data.pubDate} />
 									</p>
