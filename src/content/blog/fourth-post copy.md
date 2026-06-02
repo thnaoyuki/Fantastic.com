@@ -3,6 +3,7 @@ title: '人の気持ちが聞こえたら'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Jul 22 2022'
 heroImage: '../../assets/人の気持ち.png'
+category: "book"
 ---
 
 『人の気持ちが聴こえたら』を読んで、まず一番衝撃だったのは、これがフィクションではなくノンフィクションだということだった。

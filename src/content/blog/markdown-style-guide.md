@@ -3,6 +3,7 @@ title: 'モノも心も魂も全部粒々理論'
 description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
 pubDate: 'Jun 19 2024'
 heroImage: '../../assets/宇宙.png'
+category: "thought"
 ---
 
 導入

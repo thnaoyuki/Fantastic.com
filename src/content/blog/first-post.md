@@ -3,6 +3,7 @@ title: 'トランプデック理論'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Jul 08 2022'
 heroImage: '../../assets/トランプ.png'
+category: "thought"
 ---
 
 束になったトランプデックを想像してほしい

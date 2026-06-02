@@ -3,6 +3,7 @@ title: '民主と愛国'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Jul 22 2022'
 heroImage: '../../assets/愛国.png'
+category: "book"
 ---
 
 『民主と愛国』を読んで、自分の中にあった「日本」という感覚がかなり揺さぶられた。
