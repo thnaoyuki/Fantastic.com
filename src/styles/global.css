@@ -124,6 +124,12 @@ hr {
 		padding: 1em;
 	}
 }
+.gray-box {
+	background: #e8e0d3;
+	padding: 1rem;
+	border-radius: 8px;
+	margin: 1rem 0;
+}
 
 .sr-only {
 	border: 0;
